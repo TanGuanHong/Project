@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="Selection">
+        <item>Dashboard</item>
+        <item>Profile</item>
+        <item>Grades</item>
+        <item>Log Out</item>
+    </string-array>
+</resources>
